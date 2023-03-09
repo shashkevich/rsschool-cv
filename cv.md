@@ -9,4 +9,6 @@
 
 ## About me
 
-Я учился на экономическом факультете и закончил университет в 2010 году. С тех пор я работал в таких компаниях как Спортмастер, Терволина, а в дальнейшем стал предпринимателем, которым являюсь уже 8 лет. Я имею стабильный доход, но моя тяга к новым знаниям, технологиям и стремление развиваться привели меня к изучению программирования. Я уже имею опыт по созданию сайта на html/css для своей компании - небольшой студии печати. Следующая цель - изучить язык JavaScript и стать опытным Frontend-разработчиком. Я верю, что мои текущие навыки и жизненный опыт позволят мне добиться успеха.
+I studied
+
+I studied at the Faculty of Economics and graduated from the university in 2010. Since then, I have worked in companies such as Sportmaster, Tervolina, and later became an entrepreneur, which I have been for 8 years. I have a stable income, but my craving for new knowledge, technology and the desire to develop led me to study programming. I already have experience in creating a website in html/css for my company - a small print studio. The next goal is to learn the JavaScript language and become an experienced Frontend developer. I believe that my current skills and life experience will enable me to succeed.
