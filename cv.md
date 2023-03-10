@@ -3,13 +3,14 @@
 
 ## Contact information:
 
-*Location:*  Moscow\
-*e-mail:* shashkev@gmail.com\
-*Phone:* +7-926-062-10-08
+**Location:**  Moscow\
+**e-mail:** shashkev@gmail.com\
+**Phone:** +7-926-062-10-08
+**Telegram:** @joyvanya
+[**GitHub**](https://github.com/shashkevich)
+
 
 ## About me
-
-I studied
 
 I studied at the Faculty of Economics and graduated from the university in 2010. Since then, I have worked in companies such as Sportmaster, Tervolina, and later became an entrepreneur, which I have been for 8 years. I have a stable income, but my craving for new knowledge, technology and the desire to develop led me to study programming. I already have practice in creating a website in html/css for my company - a small print studio. The next goal is to learn the JavaScript language and become an Frontend Developer. I believe that my current skills and life experience will enable me to succeed.
 
@@ -38,17 +39,16 @@ function areYouPlayingBanjo(name) {
 }
 ```
 
-## Experience.
+## Experience
 
-* Small own business since 2015 - print studuo. I developed web-site for it using HTML/CSS (https://n1foto.com/).
+* Small own business since 2015 - print studuo. I developed website for it using HTML/CSS: https://n1foto.com/ .
 * Basic theoretical knowledge of the JavaScript language
 
 ## Education
 
 * **Russian State University of Tourism and Service.** Economics, State and Municipal Administration. Specialist Degree (2005-2010)
-(включая пройденные курсы и тренинги)
 
 ## English
 
-* **EC Malta** Business English, Intermediate (2011)\
+* **EC Malta.** Business English, Intermediate (2011)\
 I have no good practice for a long time, but I try to maintain my level of english.
