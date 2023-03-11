@@ -5,9 +5,9 @@
 
 **Location:**  Moscow\
 **e-mail:** shashkev@gmail.com\
-**Phone:** +7-926-062-10-08
-**Telegram:** @joyvanya
-**Discord:** giovanni#4112
+**Phone:** +7-926-062-10-08\
+**Telegram:** @joyvanya\
+**Discord:** giovanni#4112\
 [**GitHub**](https://github.com/shashkevich)
 
 
