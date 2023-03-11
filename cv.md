@@ -1,6 +1,6 @@
 # Ivan Shashkevich
 ### Junior Frontend Developer
-
+![avatar](./ava.jpg "Photo")
 ## Contact information:
 
 **Location:**  Moscow\
